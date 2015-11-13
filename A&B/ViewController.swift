@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  A&B
+//  AeB
 //
 //  Created by Diego Gomes on 27/10/2015.
 //  Copyright (c) 2015 Nylon. All rights reserved.
@@ -19,7 +19,4 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
-
-
 }
-
